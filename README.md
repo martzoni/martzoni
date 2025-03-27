@@ -4,7 +4,7 @@
 
 ## 🚀 My Journey  
 
-I first studied **Economics at the University of Fribourg** in Switzerland, but my interest quickly shifted towards technology. I discovered **no-code** and started managing projects, building **MVPs** to experiment with ideas.  
+I first studied **Economics at the University of Fribourg** in Switzerland 🇨🇭, but my interest quickly shifted towards technology. I discovered **no-code** and started managing projects, building **MVPs** to experiment with ideas.  
 
 Wanting to go deeper, I joined **Le Wagon bootcamp**, where I gained a solid foundation in web development. Then, I pushed further by enrolling in **42 School**, a globally recognized and intensive program that taught me to learn independently and master programming concepts.  
 
